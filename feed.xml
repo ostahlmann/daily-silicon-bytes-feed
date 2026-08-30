@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daily Silicon Bytes</title>
+    <link>https://ostahlmann.github.io/daily-silicon-bytes-feed/</link>
+    <language>en-us</language>
+    <description>The tech news that actually moved something: deals, earnings, filings, launches and the rules that shape them. Two hosts, five stories, about five minutes, every weekday morning. Every figure comes from a filing or a named outlet, never from memory.</description>
+    <itunes:summary>The tech news that actually moved something: deals, earnings, filings, launches and the rules that shape them. Two hosts, five stories, about five minutes, every weekday morning. Every figure comes from a filing or a named outlet, never from memory.</itunes:summary>
+    <itunes:author>Oliver Stahlmann</itunes:author>
+    <itunes:subtitle>Five tech stories, every weekday morning</itunes:subtitle>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="https://ostahlmann.github.io/daily-silicon-bytes-feed/cover.jpg"/>
+    <image>
+      <url>https://ostahlmann.github.io/daily-silicon-bytes-feed/cover.jpg</url>
+      <title>Daily Silicon Bytes</title>
+      <link>https://ostahlmann.github.io/daily-silicon-bytes-feed/</link>
+    </image>
+    <itunes:owner>
+      <itunes:name>Oliver Stahlmann</itunes:name>
+      <itunes:email>o.stahlmann@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Technology">
+      <itunes:category text="Tech News"/>
+    </itunes:category>
+    <atom:link href="https://ostahlmann.github.io/daily-silicon-bytes-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Sun, 30 Aug 2026 11:00:00 +0000</lastBuildDate>
+    <item>
+      <title>30 Aug: SpaceX is doing in-house casting for blades and vanes, which can accelerate…</title>
+      <description>• SpaceX is doing in-house casting for blades and vanes, which can accelerate natural gas turbines coming online by up to eighteen months
+• Tech backlash reaches fever pitch as AI angst collides with social media fears
+• California&#x27;s legislature passes a bill exempting open-source operating systems like Linux from a twenty twenty-five age-verification law
+• Data center development is driving demand for acoustic consultants
+• Faro raised a thirty-seven point three million dollar Series B</description>
+      <itunes:summary>• SpaceX is doing in-house casting for blades and vanes, which can accelerate natural gas turbines coming online by up to eighteen months
+• Tech backlash reaches fever pitch as AI angst collides with social media fears
+• California&#x27;s legislature passes a bill exempting open-source operating systems like Linux from a twenty twenty-five age-verification law
+• Data center development is driving demand for acoustic consultants
+• Faro raised a thirty-seven point three million dollar Series B</itunes:summary>
+      <pubDate>Sun, 30 Aug 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://ostahlmann.github.io/daily-silicon-bytes-feed/episodes/2026-08-30.mp3" length="2222333" type="audio/mpeg"/>
+      <guid isPermaLink="false">Daily Silicon Bytes-2026-08-30</guid>
+      <itunes:duration>2:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
