@@ -28,21 +28,21 @@
     <atom:link href="https://ostahlmann.github.io/daily-silicon-bytes-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <lastBuildDate>Sun, 30 Aug 2026 11:00:00 +0000</lastBuildDate>
     <item>
-      <title>30 Aug: AI bursts to the front of Massachusetts Democratic Senate primary</title>
-      <description>• AI bursts to the front of Massachusetts Democratic Senate primary
+      <title>30 Aug: Faro raised thirty-seven point three million dollars in a Series B</title>
+      <description>• Faro raised thirty-seven point three million dollars in a Series B
 • Texas Governor Abbott blocks funding for more Flock cameras
-• California&#x27;s legislature passes a bill exempting open-source OSes like Linux from a twenty twenty-five age-verification law; Windows, macOS, iOS, and Android remain in scope
-• Data center development is driving demand for acoustic consultants, as developers and neighboring communities hire acousticians to assess noise emissions
-• Faro, which develops data models and AI tools to speed up clinical trials, raised a thirty-seven point three million dollar Series B co-led by Merck Global Health Innovation Fund and S thirty-two</description>
-      <itunes:summary>• AI bursts to the front of Massachusetts Democratic Senate primary
+• California exempts open-source operating systems from an age-verification law
+• Musk&#x27;s faster path to more gas turbines comes with a pollution problem
+• The Nancy Grace Roman Space Telescope launches</description>
+      <itunes:summary>• Faro raised thirty-seven point three million dollars in a Series B
 • Texas Governor Abbott blocks funding for more Flock cameras
-• California&#x27;s legislature passes a bill exempting open-source OSes like Linux from a twenty twenty-five age-verification law; Windows, macOS, iOS, and Android remain in scope
-• Data center development is driving demand for acoustic consultants, as developers and neighboring communities hire acousticians to assess noise emissions
-• Faro, which develops data models and AI tools to speed up clinical trials, raised a thirty-seven point three million dollar Series B co-led by Merck Global Health Innovation Fund and S thirty-two</itunes:summary>
+• California exempts open-source operating systems from an age-verification law
+• Musk&#x27;s faster path to more gas turbines comes with a pollution problem
+• The Nancy Grace Roman Space Telescope launches</itunes:summary>
       <pubDate>Sun, 30 Aug 2026 11:00:00 +0000</pubDate>
-      <enclosure url="https://ostahlmann.github.io/daily-silicon-bytes-feed/episodes/2026-08-30.mp3" length="1901340" type="audio/mpeg"/>
+      <enclosure url="https://ostahlmann.github.io/daily-silicon-bytes-feed/episodes/2026-08-30.mp3" length="1925582" type="audio/mpeg"/>
       <guid isPermaLink="false">Daily Silicon Bytes-2026-08-30</guid>
-      <itunes:duration>1:58</itunes:duration>
+      <itunes:duration>2:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
