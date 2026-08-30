@@ -28,13 +28,21 @@
     <atom:link href="https://ostahlmann.github.io/daily-silicon-bytes-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <lastBuildDate>Sun, 30 Aug 2026 11:00:00 +0000</lastBuildDate>
     <item>
-      <title>30 Aug: Faro raises thirty-seven point three million dollars Series B</title>
-      <description>• Faro raises thirty-seven point three million dollars Series B</description>
-      <itunes:summary>• Faro raises thirty-seven point three million dollars Series B</itunes:summary>
+      <title>30 Aug: Texas Governor Abbott blocks funding for more Flock cameras</title>
+      <description>• Texas Governor Abbott blocks funding for more Flock cameras
+• Faro raises a thirty-seven point three million dollar Series B
+• California exempts open-source operating systems from age-verification law
+• Musk&#x27;s faster path to more gas turbines comes with pollution problem
+• The Nancy Grace Roman Space Telescope launches</description>
+      <itunes:summary>• Texas Governor Abbott blocks funding for more Flock cameras
+• Faro raises a thirty-seven point three million dollar Series B
+• California exempts open-source operating systems from age-verification law
+• Musk&#x27;s faster path to more gas turbines comes with pollution problem
+• The Nancy Grace Roman Space Telescope launches</itunes:summary>
       <pubDate>Sun, 30 Aug 2026 11:00:00 +0000</pubDate>
-      <enclosure url="https://ostahlmann.github.io/daily-silicon-bytes-feed/episodes/2026-08-30.mp3" length="666271" type="audio/mpeg"/>
+      <enclosure url="https://ostahlmann.github.io/daily-silicon-bytes-feed/episodes/2026-08-30.mp3" length="2950835" type="audio/mpeg"/>
       <guid isPermaLink="false">Daily Silicon Bytes-2026-08-30</guid>
-      <itunes:duration>0:41</itunes:duration>
+      <itunes:duration>3:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
