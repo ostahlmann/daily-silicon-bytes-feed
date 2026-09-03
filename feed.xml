@@ -23,10 +23,27 @@
       <itunes:email>o.stahlmann@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:category text="Technology">
-      <itunes:category text="Tech News"/>
     </itunes:category>
     <atom:link href="https://ostahlmann.github.io/daily-silicon-bytes-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 30 Aug 2026 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 11:00:00 +0000</lastBuildDate>
+    <item>
+      <title>3 Sep: Palo Alto Networks beats quarterly estimates on AI demand, continues…</title>
+      <description>• Palo Alto Networks beats quarterly estimates on AI demand, continues acquisition spree
+• China-based Moonshot filed confidentially for a Hong Kong IPO
+• Broadcom delivers strong earnings view as CEO touts growth with AI labs
+• Uber to cut ten percent of workforce in bid to move simpler and faster
+• The Trump administration is supporting OpenAI in the New York Times copyright lawsuit</description>
+      <itunes:summary>• Palo Alto Networks beats quarterly estimates on AI demand, continues acquisition spree
+• China-based Moonshot filed confidentially for a Hong Kong IPO
+• Broadcom delivers strong earnings view as CEO touts growth with AI labs
+• Uber to cut ten percent of workforce in bid to move simpler and faster
+• The Trump administration is supporting OpenAI in the New York Times copyright lawsuit</itunes:summary>
+      <pubDate>Thu, 03 Sep 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://ostahlmann.github.io/daily-silicon-bytes-feed/episodes/2026-09-03.mp3" length="2979257" type="audio/mpeg"/>
+      <guid isPermaLink="false">Daily Silicon Bytes-2026-09-03</guid>
+      <itunes:duration>3:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>30 Aug: Texas Governor Abbott blocks funding for more Flock cameras</title>
       <description>• Texas Governor Abbott blocks funding for more Flock cameras
