@@ -25,7 +25,25 @@
     <itunes:category text="Technology">
     </itunes:category>
     <atom:link href="https://ostahlmann.github.io/daily-silicon-bytes-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 07 Sep 2026 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 11:00:00 +0000</lastBuildDate>
+    <item>
+      <title>8 Sep: Samsung and TSMC commit to ASML&#x27;s High NA EUV tools</title>
+      <description>• Samsung and TSMC commit to ASML&#x27;s High NA EUV tools
+• Meshflow Acquisition Corp filing
+• Rothe Development S-1
+• Fidelity Core Real Estate Fund results
+• Eric Wu&#x27;s new company</description>
+      <itunes:summary>• Samsung and TSMC commit to ASML&#x27;s High NA EUV tools
+• Meshflow Acquisition Corp filing
+• Rothe Development S-1
+• Fidelity Core Real Estate Fund results
+• Eric Wu&#x27;s new company</itunes:summary>
+      <pubDate>Tue, 08 Sep 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://ostahlmann.github.io/daily-silicon-bytes-feed/episodes/2026-09-08.mp3" length="2711763" type="audio/mpeg"/>
+      <guid isPermaLink="false">Daily Silicon Bytes-2026-09-08</guid>
+      <itunes:duration>2:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>7 Sep: A three point two billion dollar AI data center campus in New York has many…</title>
       <description>• A three point two billion dollar AI data center campus in New York has many stakeholders
