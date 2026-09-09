@@ -25,7 +25,25 @@
     <itunes:category text="Technology">
     </itunes:category>
     <atom:link href="https://ostahlmann.github.io/daily-silicon-bytes-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 08 Sep 2026 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 11:00:00 +0000</lastBuildDate>
+    <item>
+      <title>9 Sep: Suno rolls out v6 with label deals</title>
+      <description>• Suno rolls out v6 with label deals
+• Apple&#x27;s foldable will be called iPhone Duo
+• Cornerstone Building Brands files an eight-K
+• AIxCrypto Holdings amends its S-1
+• Academy Sports files earnings</description>
+      <itunes:summary>• Suno rolls out v6 with label deals
+• Apple&#x27;s foldable will be called iPhone Duo
+• Cornerstone Building Brands files an eight-K
+• AIxCrypto Holdings amends its S-1
+• Academy Sports files earnings</itunes:summary>
+      <pubDate>Wed, 09 Sep 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://ostahlmann.github.io/daily-silicon-bytes-feed/episodes/2026-09-09.mp3" length="1668955" type="audio/mpeg"/>
+      <guid isPermaLink="false">Daily Silicon Bytes-2026-09-09</guid>
+      <itunes:duration>1:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>8 Sep: Samsung and TSMC commit to ASML&#x27;s High NA EUV tools</title>
       <description>• Samsung and TSMC commit to ASML&#x27;s High NA EUV tools
