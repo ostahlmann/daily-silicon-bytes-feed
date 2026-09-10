@@ -25,7 +25,25 @@
     <itunes:category text="Technology">
     </itunes:category>
     <atom:link href="https://ostahlmann.github.io/daily-silicon-bytes-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 09 Sep 2026 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 11:00:00 +0000</lastBuildDate>
+    <item>
+      <title>10 Sep: Apple unveils new iPhones and watches at first fall event under CEO John Ternus</title>
+      <description>• Apple unveils new iPhones and watches at first fall event under CEO John Ternus
+• Bending Spoons to acquire workplace platform Miro for one point three six billion dollars
+• Macy&#x27;s files material agreement and financial obligation disclosures
+• Listen Labs in acquisition talks with Salesforce after pulling funding round
+• Nintendo adds variable refresh rate support to Switch 2 in new firmware update</description>
+      <itunes:summary>• Apple unveils new iPhones and watches at first fall event under CEO John Ternus
+• Bending Spoons to acquire workplace platform Miro for one point three six billion dollars
+• Macy&#x27;s files material agreement and financial obligation disclosures
+• Listen Labs in acquisition talks with Salesforce after pulling funding round
+• Nintendo adds variable refresh rate support to Switch 2 in new firmware update</itunes:summary>
+      <pubDate>Thu, 10 Sep 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://ostahlmann.github.io/daily-silicon-bytes-feed/episodes/2026-09-10.mp3" length="3044876" type="audio/mpeg"/>
+      <guid isPermaLink="false">Daily Silicon Bytes-2026-09-10</guid>
+      <itunes:duration>3:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>9 Sep: Suno rolls out v6 with label deals</title>
       <description>• Suno rolls out v6 with label deals
