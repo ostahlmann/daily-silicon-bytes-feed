@@ -25,7 +25,25 @@
     <itunes:category text="Technology">
     </itunes:category>
     <atom:link href="https://ostahlmann.github.io/daily-silicon-bytes-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 10 Sep 2026 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 11:00:00 +0000</lastBuildDate>
+    <item>
+      <title>11 Sep: Reliance Global Group filed three 8-Ks this week</title>
+      <description>• Reliance Global Group filed three 8-Ks this week
+• Oracle&#x27;s cloud infrastructure revenue jumped
+• Anthropic says it disrupted a Yemen-based weapons engineering cell
+• MIT launched the LLM Election Observatory
+• Ayar Labs raised an extension round</description>
+      <itunes:summary>• Reliance Global Group filed three 8-Ks this week
+• Oracle&#x27;s cloud infrastructure revenue jumped
+• Anthropic says it disrupted a Yemen-based weapons engineering cell
+• MIT launched the LLM Election Observatory
+• Ayar Labs raised an extension round</itunes:summary>
+      <pubDate>Fri, 11 Sep 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://ostahlmann.github.io/daily-silicon-bytes-feed/episodes/2026-09-11.mp3" length="1751293" type="audio/mpeg"/>
+      <guid isPermaLink="false">Daily Silicon Bytes-2026-09-11</guid>
+      <itunes:duration>1:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>10 Sep: Apple unveils new iPhones and watches at first fall event under CEO John Ternus</title>
       <description>• Apple unveils new iPhones and watches at first fall event under CEO John Ternus
