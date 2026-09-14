@@ -25,7 +25,25 @@
     <itunes:category text="Technology">
     </itunes:category>
     <atom:link href="https://ostahlmann.github.io/daily-silicon-bytes-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 11 Sep 2026 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 11:00:00 +0000</lastBuildDate>
+    <item>
+      <title>14 Sep: Superhuman acquires Y Combinator-backed notetaker Fathom</title>
+      <description>• Superhuman acquires Y Combinator-backed notetaker Fathom
+• Treasure Global Inc files eight-K
+• NewtekOne files eight-K
+• Bamboo Insurance Services files S-one-A
+• Z dot ai shares fall after five billion dollar fundraising</description>
+      <itunes:summary>• Superhuman acquires Y Combinator-backed notetaker Fathom
+• Treasure Global Inc files eight-K
+• NewtekOne files eight-K
+• Bamboo Insurance Services files S-one-A
+• Z dot ai shares fall after five billion dollar fundraising</itunes:summary>
+      <pubDate>Mon, 14 Sep 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://ostahlmann.github.io/daily-silicon-bytes-feed/episodes/2026-09-14.mp3" length="2543743" type="audio/mpeg"/>
+      <guid isPermaLink="false">Daily Silicon Bytes-2026-09-14</guid>
+      <itunes:duration>2:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>11 Sep: Reliance Global Group filed three 8-Ks this week</title>
       <description>• Reliance Global Group filed three 8-Ks this week
