@@ -25,7 +25,25 @@
     <itunes:category text="Technology">
     </itunes:category>
     <atom:link href="https://ostahlmann.github.io/daily-silicon-bytes-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 14 Sep 2026 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 11:00:00 +0000</lastBuildDate>
+    <item>
+      <title>15 Sep: Apple bundles TV, Arcade, and Music into iCloud Plus</title>
+      <description>• Apple bundles TV, Arcade, and Music into iCloud Plus
+• Altera files confidentially for an IPO
+• Xcf Global files an eight-K
+• ByteDance reports first-half earnings
+• Grab acquires majority stake in Atome</description>
+      <itunes:summary>• Apple bundles TV, Arcade, and Music into iCloud Plus
+• Altera files confidentially for an IPO
+• Xcf Global files an eight-K
+• ByteDance reports first-half earnings
+• Grab acquires majority stake in Atome</itunes:summary>
+      <pubDate>Tue, 15 Sep 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://ostahlmann.github.io/daily-silicon-bytes-feed/episodes/2026-09-15.mp3" length="1957346" type="audio/mpeg"/>
+      <guid isPermaLink="false">Daily Silicon Bytes-2026-09-15</guid>
+      <itunes:duration>2:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>14 Sep: Superhuman acquires Y Combinator-backed notetaker Fathom</title>
       <description>• Superhuman acquires Y Combinator-backed notetaker Fathom
