@@ -25,7 +25,25 @@
     <itunes:category text="Technology">
     </itunes:category>
     <atom:link href="https://ostahlmann.github.io/daily-silicon-bytes-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 15 Sep 2026 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 11:00:00 +0000</lastBuildDate>
+    <item>
+      <title>16 Sep: My Size filed multiple eight-Ks on material agreements and equity sales</title>
+      <description>• My Size filed multiple eight-Ks on material agreements and equity sales
+• CNBC says five things investors need to know to start trading today
+• Rune raised a forty million dollar Series A for modular data centers at renewable sites
+• Cyabra filed an amended S-one
+• HeartSciences filed results of operations</description>
+      <itunes:summary>• My Size filed multiple eight-Ks on material agreements and equity sales
+• CNBC says five things investors need to know to start trading today
+• Rune raised a forty million dollar Series A for modular data centers at renewable sites
+• Cyabra filed an amended S-one
+• HeartSciences filed results of operations</itunes:summary>
+      <pubDate>Wed, 16 Sep 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://ostahlmann.github.io/daily-silicon-bytes-feed/episodes/2026-09-16.mp3" length="3665128" type="audio/mpeg"/>
+      <guid isPermaLink="false">Daily Silicon Bytes-2026-09-16</guid>
+      <itunes:duration>3:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>15 Sep: Apple bundles TV, Arcade, and Music into iCloud Plus</title>
       <description>• Apple bundles TV, Arcade, and Music into iCloud Plus
