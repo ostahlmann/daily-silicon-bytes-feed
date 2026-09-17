@@ -25,7 +25,25 @@
     <itunes:category text="Technology">
     </itunes:category>
     <atom:link href="https://ostahlmann.github.io/daily-silicon-bytes-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 16 Sep 2026 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 11:00:00 +0000</lastBuildDate>
+    <item>
+      <title>17 Sep: Snap launches Specs Intelligence AI assistant for iOS and Mac</title>
+      <description>• Snap launches Specs Intelligence AI assistant for iOS and Mac
+• Sensei Harbor files amended IPO registration
+• Lisata Therapeutics files eight-K on officer changes
+• Surgery Partners completes acquisition or disposition
+• OpenAI investors approach company about new funding round</description>
+      <itunes:summary>• Snap launches Specs Intelligence AI assistant for iOS and Mac
+• Sensei Harbor files amended IPO registration
+• Lisata Therapeutics files eight-K on officer changes
+• Surgery Partners completes acquisition or disposition
+• OpenAI investors approach company about new funding round</itunes:summary>
+      <pubDate>Thu, 17 Sep 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://ostahlmann.github.io/daily-silicon-bytes-feed/episodes/2026-09-17.mp3" length="2797862" type="audio/mpeg"/>
+      <guid isPermaLink="false">Daily Silicon Bytes-2026-09-17</guid>
+      <itunes:duration>2:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>16 Sep: My Size filed multiple eight-Ks on material agreements and equity sales</title>
       <description>• My Size filed multiple eight-Ks on material agreements and equity sales
