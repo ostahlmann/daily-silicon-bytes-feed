@@ -25,7 +25,25 @@
     <itunes:category text="Technology">
     </itunes:category>
     <atom:link href="https://ostahlmann.github.io/daily-silicon-bytes-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 17 Sep 2026 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 11:00:00 +0000</lastBuildDate>
+    <item>
+      <title>18 Sep: U.S. faces shortage of workers for semiconductor manufacturing</title>
+      <description>• U.S. faces shortage of workers for semiconductor manufacturing
+• Alpine Auto Brokers files eight-K
+• Beijing-based Naive AI raises four hundred million dollars
+• CNBC publishes Morning Squawk roundup
+• Amaero files amended S-one</description>
+      <itunes:summary>• U.S. faces shortage of workers for semiconductor manufacturing
+• Alpine Auto Brokers files eight-K
+• Beijing-based Naive AI raises four hundred million dollars
+• CNBC publishes Morning Squawk roundup
+• Amaero files amended S-one</itunes:summary>
+      <pubDate>Fri, 18 Sep 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://ostahlmann.github.io/daily-silicon-bytes-feed/episodes/2026-09-18.mp3" length="1511802" type="audio/mpeg"/>
+      <guid isPermaLink="false">Daily Silicon Bytes-2026-09-18</guid>
+      <itunes:duration>1:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>17 Sep: Snap launches Specs Intelligence AI assistant for iOS and Mac</title>
       <description>• Snap launches Specs Intelligence AI assistant for iOS and Mac
