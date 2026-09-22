@@ -25,7 +25,25 @@
     <itunes:category text="Technology">
     </itunes:category>
     <atom:link href="https://ostahlmann.github.io/daily-silicon-bytes-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 21 Sep 2026 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 11:00:00 +0000</lastBuildDate>
+    <item>
+      <title>22 Sep: Apple should make a cheaper Mac desktop with an iPhone chip</title>
+      <description>• Apple should make a cheaper Mac desktop with an iPhone chip
+• Fdctech files amendments to bylaws and reports material modifications
+• Peloton launches a folding treadmill for twenty-one ninety-five
+• Alibaba shares rise on new AI chip and data center expansion
+• Binance invests one hundred million in Circle and agrees to promote USDC</description>
+      <itunes:summary>• Apple should make a cheaper Mac desktop with an iPhone chip
+• Fdctech files amendments to bylaws and reports material modifications
+• Peloton launches a folding treadmill for twenty-one ninety-five
+• Alibaba shares rise on new AI chip and data center expansion
+• Binance invests one hundred million in Circle and agrees to promote USDC</itunes:summary>
+      <pubDate>Tue, 22 Sep 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://ostahlmann.github.io/daily-silicon-bytes-feed/episodes/2026-09-22.mp3" length="3009768" type="audio/mpeg"/>
+      <guid isPermaLink="false">Daily Silicon Bytes-2026-09-22</guid>
+      <itunes:duration>3:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>21 Sep: Apple&#x27;s M5 Ultra Mac Studio is thirty percent faster than last year&#x27;s model</title>
       <description>• Apple&#x27;s M5 Ultra Mac Studio is thirty percent faster than last year&#x27;s model
