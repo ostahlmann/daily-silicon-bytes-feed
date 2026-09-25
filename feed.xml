@@ -25,7 +25,25 @@
     <itunes:category text="Technology">
     </itunes:category>
     <atom:link href="https://ostahlmann.github.io/daily-silicon-bytes-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 23 Sep 2026 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 11:00:00 +0000</lastBuildDate>
+    <item>
+      <title>25 Sep: Siebert Financial filed multiple eight-Ks today</title>
+      <description>• Siebert Financial filed multiple eight-Ks today
+• AI neolabs raised twenty-four billion dollars in the past two quarters
+• Meta launched VR Glasses and a Muse Charm pendant
+• Microsoft launched its Copilot super app
+• Astrotech filed an eight-K on results of operations</description>
+      <itunes:summary>• Siebert Financial filed multiple eight-Ks today
+• AI neolabs raised twenty-four billion dollars in the past two quarters
+• Meta launched VR Glasses and a Muse Charm pendant
+• Microsoft launched its Copilot super app
+• Astrotech filed an eight-K on results of operations</itunes:summary>
+      <pubDate>Fri, 25 Sep 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://ostahlmann.github.io/daily-silicon-bytes-feed/episodes/2026-09-25.mp3" length="3076641" type="audio/mpeg"/>
+      <guid isPermaLink="false">Daily Silicon Bytes-2026-09-25</guid>
+      <itunes:duration>3:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>23 Sep: Cuentas files merger documents with the SEC</title>
       <description>• Cuentas files merger documents with the SEC
